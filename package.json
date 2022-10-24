@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:3001",
-  "homepage": "https://babaphillips.github.io/",
+  "homepage": "https://babaphillips.github.io/book-search-engine",
   "dependencies": {
     "@apollo/client": "^3.7.0",
     "@testing-library/jest-dom": "^4.2.4",
